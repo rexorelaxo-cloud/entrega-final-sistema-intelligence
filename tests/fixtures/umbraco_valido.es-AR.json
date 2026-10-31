@@ -1,0 +1,10 @@
+{
+  "key": "9c1d2f3a-7b4e-4a5c-8d6f-0123456789ab",
+  "culture": "es-AR",
+  "contentType": "articlePage",
+  "properties": {
+    "title": "Bienvenido a nuestro sitio",
+    "bodyText": "<p>Hola, {0}.</p>",
+    "seoDescription": "Descubrí nuestros servicios."
+  }
+}

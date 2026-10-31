@@ -1,0 +1,11 @@
+{
+  "itemId": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+  "language": "en-US",
+  "template": "ArticlePage",
+  "version": 1,
+  "fields": {
+    "Title": "Welcome to our site",
+    "Body": "<p>Hello, {0}. Your order #{1} is ready.</p>",
+    "MetaDescription": "Discover our localization services."
+  }
+}

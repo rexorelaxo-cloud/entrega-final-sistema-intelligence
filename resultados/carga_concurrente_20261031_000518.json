@@ -1,0 +1,55 @@
+{
+  "fecha": "2026-10-31T00:05:18",
+  "url": "http://localhost:8000",
+  "modo_llm": "deterministic",
+  "solicitudes": 5,
+  "completadas": 5,
+  "errores": 0,
+  "tiempo_total_s": 0.327,
+  "latencia_promedio_s": 0.31,
+  "latencia_p95_s": 0.326,
+  "latencia_min_s": 0.296,
+  "latencia_max_s": 0.326,
+  "detalle": [
+    {
+      "i": 0,
+      "status": 200,
+      "completada": true,
+      "segundos": 0.297,
+      "veredicto": "APTO",
+      "error": null
+    },
+    {
+      "i": 1,
+      "status": 200,
+      "completada": true,
+      "segundos": 0.315,
+      "veredicto": "NO_APTO",
+      "error": null
+    },
+    {
+      "i": 2,
+      "status": 200,
+      "completada": true,
+      "segundos": 0.326,
+      "veredicto": "NO_APTO",
+      "error": null
+    },
+    {
+      "i": 3,
+      "status": 200,
+      "completada": true,
+      "segundos": 0.317,
+      "veredicto": "APTO",
+      "error": null
+    },
+    {
+      "i": 4,
+      "status": 200,
+      "completada": true,
+      "segundos": 0.296,
+      "veredicto": "NO_APTO",
+      "error": null
+    }
+  ]
+}

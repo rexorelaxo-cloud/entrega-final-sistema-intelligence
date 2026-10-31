@@ -1,0 +1,11 @@
+{
+  "itemId": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+  "language": "fr-FR",
+  "template": "ArticlePage",
+  "version": "1",
+  "fields": {
+    "Title": "Bienvenue sur notre site",
+    "Body": "<p>Bonjour, {0}. Votre commande est prête.",
+    "Subtitle": "Services de localisation"
+  }
+}
